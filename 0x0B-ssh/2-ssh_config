@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+# Client configuration file
 Host school
     Hostname 197.232.43.69
     User ubuntu
