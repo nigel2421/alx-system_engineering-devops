@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Client configuration file
-Host ubuntu
+Host school
     PubkeyAuthentication no
 
 Host myserver
