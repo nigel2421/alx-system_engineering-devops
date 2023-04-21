@@ -1,7 +1,7 @@
-Host *
-    PasswordAuthentication no
+Host ubuntu
+    PubkeyAuthentication no
 
 Host myserver
-    Hostname 54.160.91.112
+    HostName 54.160.91.112
     User ubuntu
     IdentityFile ~/.ssh/school
