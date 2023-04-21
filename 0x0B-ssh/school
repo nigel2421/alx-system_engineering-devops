@@ -4,6 +4,6 @@ Host school
     PubkeyAuthentication no
 
 Host myserver
-    HostName 54.160.91.112
+    HostName 197.232.43.69
     User ubuntu
     IdentityFile ~/.ssh/school
